@@ -1,0 +1,367 @@
+/*
+*
+Style One
+*
+*/
+.team_one {
+	position: relative;
+	width: 300px;
+	height: 350px;
+	background: #fff;
+	margin: 0 auto;
+	border-radius: 4px;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, .2);
+}
+
+.team_one:before,
+.team_one:after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 4px;
+	background: #fff;
+	transition: 0.5s;
+	z-index: -1;
+}
+
+.team_one:hover:before {
+	transform: rotate(20deg);
+	box-shadow: 0 2px 20px rgba(0, 0, 0, .2);
+}
+
+.team_one:hover:after {
+	transform: rotate(10deg);
+	box-shadow: 0 2px 20px rgba(0, 0, 0, .2);
+}
+
+.team_one .imgBx {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	bottom: 10px;
+	right: 10px;
+	background: #222;
+	transition: 0.5s;
+	z-index: 1;
+}
+
+.team_one:hover .imgBx {
+	bottom: 80px;
+}
+
+.team_one .imgBx img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.team_one .content_one {
+	position: absolute;
+	left: 10px;
+	right: 10px;
+	bottom: 10px;
+	height: 60px;
+	text-align: center;
+}
+
+.team_one .content_one h2 {
+	margin: 0;
+	padding: 0;
+	font-weight: 600;
+	font-size: 20px;
+	color: #777;
+	text-transform: uppercase;
+}
+
+.team_one .content_one span {
+	font-weight: 500;
+	font-size: 16px;
+	color: #3f56f5;
+	display: block;
+	margin-top: 5px;
+}
+
+/*
+*
+Style Two
+*
+*/
+.team_two {
+	padding: 30px 0 40px;
+	margin-bottom: 30px;
+	background-color: #f7f5ec;
+	text-align: center;
+	overflow: hidden;
+	position: relative;
+}
+
+.team_two .imgBx {
+	display: inline-block;
+	height: 130px;
+	width: 130px;
+	margin-bottom: 50px;
+	z-index: 1;
+	position: relative;
+}
+
+.team_two .imgBx::before {
+	content: "";
+	width: 100%;
+	height: 0;
+	border-radius: 50%;
+	background-color: #1369ce;
+	position: absolute;
+	bottom: 135%;
+	right: 0;
+	left: 0;
+	opacity: 0.9;
+	transform: scale(3);
+	transition: all 0.3s linear 0s;
+}
+
+.team_two:hover .imgBx::before {
+	height: 100%;
+}
+
+.team_two .imgBx::after {
+	content: "";
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	background-color: #1369ce;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.team_two .imgBx img {
+	width: 100%;
+	height: auto;
+	border-radius: 50%;
+	transform: scale(1);
+	transition: all 0.9s ease 0s;
+}
+
+.team_two:hover .imgBx img {
+	box-shadow: 0 0 0 14px #f7f5ec;
+	transform: scale(0.7);
+}
+
+.team_two .title {
+	display: block;
+	font-size: 15px;
+	color: #4e5052;
+	text-transform: capitalize;
+}
+
+.team_two .social {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #1369ce;
+	position: absolute;
+	bottom: -100px;
+	left: 0;
+	transition: all 0.5s ease 0s;
+}
+
+.team_two:hover .social {
+	bottom: 0;
+}
+
+.team_two .social li {
+	display: inline-block;
+}
+
+.team_two .social li a {
+	display: block;
+	padding: 10px;
+	font-size: 17px;
+	color: white;
+	transition: all 0.3s ease 0s;
+	text-decoration: none;
+}
+
+.team_two .social li a:hover {
+	color: #1369ce;
+	background-color: #f7f5ec;
+}
+
+/*
+*
+Style Three
+*
+*/
+.style_three_wrapper {
+	position: relative;
+	width: 350px;
+	height: 450px;
+}
+
+.team_three {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 350px;
+	height: 450px;
+	transform: translate(-50%, -50%);
+	border-radius: 16px;
+	overflow: hidden;
+	box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.team_three .imgBx {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 2;
+	background-color: #000;
+	transition: .5s;
+	overflow: hidden;
+}
+
+.team_three:hover .imgBx img {
+	opacity: 0.4;
+	transition: .5s;
+}
+
+.team_three:hover .imgBx {
+	transform: translateY(-100px);
+	transition: all .9s;
+}
+
+/**** Social Icons *****/
+.social-icons {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 3;
+	display: flex;
+	margin: 0;
+}
+
+.social-icons li {
+	list-style: none;
+}
+
+.social-icons li a {
+	position: relative;
+	display: block;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	background: #fff;
+	font-size: 23px;
+	color: #333;
+	font-weight: bold;
+	margin: 0 6px;
+	transition: .4s;
+	transform: translateY(200px);
+	opacity: 0;
+}
+
+.team_three:hover .social-icons li a {
+	transform: translateY(0px);
+	opacity: 1;
+}
+
+.social-icons li a:hover {
+	background: #000;
+	transition: .2s;
+}
+
+.social-icons li a:hover .fab {
+	color: #fff;
+}
+
+.social-icons li a .fab {
+	transition: .8s;
+}
+
+.social-icons li a .fab:hover {
+	transform: rotateY(360deg);
+	color: #fff;
+}
+
+.team_three:hover li:nth-child(1) a {
+	transition-delay: 0.1s;
+}
+
+.team_three:hover li:nth-child(2) a {
+	transition-delay: 0.2s;
+}
+
+.team_three:hover li:nth-child(3) a {
+	transition-delay: 0.3s;
+}
+
+.team_three:hover li:nth-child(4) a {
+	transition-delay: 0.4s;
+}
+
+/**** Personal Details ****/
+.content_three {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background: #fff;
+	width: 100%;
+	height: 120px;
+	z-index: 1;
+	padding: 10px;
+}
+
+.content_three h2 {
+	margin: 30px 0px 0px 0px;
+	padding: 0;
+}
+
+.content_three .job-title {
+	font-size: 1rem;
+	line-height: 2.5rem;
+	color: #333;
+	font-weight: 300;
+	margin-bottom: 30px;
+	display: block;
+}
+
+.jane {
+	position: absolute;
+	bottom: -120px;
+	left: 0;
+	opacity: 0;
+	background: #fff;
+	width: 100%;
+	height: 120px;
+	z-index: 3;
+	padding: 10px;
+	transition: .4s;
+}
+
+.profile-two .social-icons li a {
+	border-radius: 50%;
+}
+
+.team_three:hover .profile-img--two {
+	transform: rotateY(180deg);
+}
+
+.team_three:hover .jane {
+	bottom: 0;
+	left: 0;
+	transition-delay: 0.5s;
+	opacity: 1;
+}

@@ -1,0 +1,20 @@
+/* Css For Icon Box */
+.safe_icon_box_link {
+    display: block;
+}
+
+.elementor-widget-safeiconbox .elementor-widget-container {
+    background: #fff;
+    box-shadow: 0 0.2rem 2.8rem rgba(36, 36, 36, .1);
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+}
+
+.safe_box_icon, .safe_box_image {
+    margin-bottom: 1rem;
+}
+
+.safe_box_icon i {
+    font-size: 48px;
+    color: #3a3a3a;
+}

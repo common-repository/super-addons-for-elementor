@@ -1,0 +1,83 @@
+/* Global Css For Call To Action */
+.safe-call-to-action{
+	padding: 30px;
+	margin: 0 auto;
+	color: #4d4d4d;
+}
+
+.safe-call-to-action .subtitle-selector{
+	color: #3a3a3a;
+}
+
+.safe-call-to-action .title-selector{
+	font-weight: 600;
+	margin-bottom: 10px;
+	font-size: 36px;
+	line-height: 36px;
+}
+
+.safe-call-to-action p{
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+/* Background Color Version */
+.safe-call-to-action.bg-color{
+	background-color: #f4f4f4;
+}
+
+/* Background Image Version */
+.safe-call-to-action.bg-img{
+	background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+	position: relative;
+}
+
+/* Background Image Version */
+.safe-call-to-action.bg-img-fixed{
+	background-repeat: no-repeat;
+    background-position: 50%;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+}
+
+/* Cta Flex Version */
+.safe-call-to-action.cta_flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.safe-call-to-action.cta_flex .btn-another-wrapper,.safe-call-to-action.cta_flex .btn-wrapper{
+	flex-basis: 23%;
+    text-align: right;
+}
+
+.safe-call-to-action.cta_flex .content{
+	padding: 0px 15px;
+	flex: 1;
+}
+
+/* Cta Flex With Icon */
+.safe-call-to-action.cta_icon_flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.safe-call-to-action.cta_icon_flex .btn-another-wrapper,.safe-call-to-action.cta_icon_flex .btn-wrapper{
+	flex-basis: 23%;
+    text-align: right;
+}
+
+.safe-call-to-action.cta_icon_flex .content{
+	padding: 0px 15px;
+	flex: 1;
+}
+
+.safe-call-to-action.cta_icon_flex .cta_icon i{
+	font-size: 80px;
+	color: #444;
+}

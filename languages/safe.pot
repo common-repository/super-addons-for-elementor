@@ -1,0 +1,1181 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Addons For Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-02 19:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.4.2"
+
+#: addons/addons.php:156
+#, php-format
+msgid ""
+"\"%1$s\" requires \"%2$s\" to be activated.Please activate Elementor to "
+"continue."
+msgstr ""
+
+#: addons/addons.php:164
+#, php-format
+msgid ""
+"\"%1$s\" requires \"%2$s\" to be installed and activated.Please activate "
+"Elementor to continue."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: addons/addons.php:203 addons/addons.php:228
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: addons/widgets/button.php:82 addons/widgets/safe-cta.php:244
+msgid "#"
+msgstr ""
+
+#: addons/widgets/blog-post.php:85
+msgid "1 Column"
+msgstr ""
+
+#: addons/widgets/blog-post.php:98 addons/widgets/blog-post.php:119
+msgid "18"
+msgstr ""
+
+#: addons/widgets/blog-post.php:86
+msgid "2 Columns"
+msgstr ""
+
+#: addons/widgets/blog-post.php:74
+msgid "3"
+msgstr ""
+
+#: addons/widgets/blog-post.php:87
+msgid "3 Columns"
+msgstr ""
+
+#: addons/widgets/blog-post.php:88
+msgid "4 Columns"
+msgstr ""
+
+#: addons/addons.php:161
+msgid "Activate Elementor"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:191
+msgid ""
+"Add a strong one liner supporting the heading above and giving users a "
+"reason to click on the button below."
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:129
+msgid "Add Logo Image"
+msgstr ""
+
+#: addons/widgets/button.php:121 addons/widgets/safe-cta.php:283
+msgid "After Text"
+msgstr ""
+
+#: addons/widgets/button.php:134 addons/widgets/countdown-widget.php:96
+#: addons/widgets/icon-box.php:144 addons/widgets/safe-cta.php:98
+#: addons/widgets/section-title.php:150
+msgid "Alignment"
+msgstr ""
+
+#: addons/widgets/blog-post.php:59
+msgid "Alter The Image?"
+msgstr ""
+
+#. Description of the plugin
+msgid "An Addon For Elementor."
+msgstr ""
+
+#: addons/widgets/blog-post.php:130
+msgid "ASC"
+msgstr ""
+
+#: addons/widgets/blog-post.php:144 addons/widgets/blog-post.php:525
+msgid "Author"
+msgstr ""
+
+#: addons/widgets/blog-post.php:533
+msgid "Author Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:543
+msgid "Author Hover Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:555
+msgid "Author Typography"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:122
+msgid "Autoplay"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:250
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: addons/widgets/icon-box.php:203 addons/widgets/icon-box.php:319
+#: addons/widgets/icon-box.php:407 addons/widgets/section-title.php:305
+msgid "Background"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:86
+#: addons/widgets/countdown-widget.php:202 addons/widgets/safe-cta.php:88
+#: addons/widgets/safe-cta.php:322
+msgid "Background Color"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:88 addons/widgets/safe-cta.php:90
+msgid "Background Fixed Image"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:87 addons/widgets/safe-cta.php:89
+msgid "Background Image"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:73
+msgid "Basic"
+msgstr ""
+
+#: addons/widgets/button.php:117 addons/widgets/safe-cta.php:279
+msgid "Before Text"
+msgstr ""
+
+#: addons/widgets/blog-post.php:18 addons/widgets/blog-post.php:38
+msgid "Blog Post"
+msgstr ""
+
+#: addons/widgets/button.php:251 addons/widgets/button.php:497
+#: addons/widgets/countdown-widget.php:281 addons/widgets/icon-box.php:212
+#: addons/widgets/icon-box.php:328 addons/widgets/icon-box.php:417
+#: addons/widgets/safe-cta.php:401 addons/widgets/safe-cta.php:673
+#: addons/widgets/safe-cta.php:908 addons/widgets/section-title.php:358
+msgid "Border"
+msgstr ""
+
+#: addons/widgets/section-title.php:205 addons/widgets/team-member.php:258
+msgid "Border Radius"
+msgstr ""
+
+#: addons/widgets/icon-box.php:79
+msgid "Box Image"
+msgstr ""
+
+#: addons/widgets/button.php:269 addons/widgets/button.php:515
+#: addons/widgets/icon-box.php:233 addons/widgets/icon-box.php:349
+#: addons/widgets/icon-box.php:484 addons/widgets/section-title.php:197
+#: addons/widgets/team-member.php:231
+msgid "Box Shadow"
+msgstr ""
+
+#: addons/widgets/icon-box.php:113
+msgid "Box Title"
+msgstr ""
+
+#: addons/widgets/icon-box.php:122
+msgid "Box Title Tag"
+msgstr ""
+
+#: addons/widgets/button.php:51 addons/widgets/safe-cta.php:213
+msgid "Bubble Hover"
+msgstr ""
+
+#: addons/widgets/blog-post.php:354 addons/widgets/button.php:19
+#: addons/widgets/button.php:39 addons/widgets/safe-cta.php:201
+msgid "Button"
+msgstr ""
+
+#: addons/widgets/blog-post.php:410 addons/widgets/button.php:201
+#: addons/widgets/button.php:213 addons/widgets/button.php:398
+#: addons/widgets/button.php:411 addons/widgets/button.php:424
+#: addons/widgets/button.php:436 addons/widgets/button.php:448
+#: addons/widgets/button.php:460 addons/widgets/button.php:472
+#: addons/widgets/safe-cta.php:623 addons/widgets/safe-cta.php:635
+#: addons/widgets/safe-cta.php:809 addons/widgets/safe-cta.php:822
+#: addons/widgets/safe-cta.php:835 addons/widgets/safe-cta.php:847
+#: addons/widgets/safe-cta.php:859 addons/widgets/safe-cta.php:871
+#: addons/widgets/safe-cta.php:883
+msgid "Button Background Color"
+msgstr ""
+
+#: addons/widgets/button.php:300 addons/widgets/button.php:547
+msgid "Button Border Radius"
+msgstr ""
+
+#: addons/widgets/button.php:238 addons/widgets/button.php:484
+#: addons/widgets/safe-cta.php:660 addons/widgets/safe-cta.php:895
+msgid "Button Box Shadow Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:362 addons/widgets/button.php:177
+#: addons/widgets/button.php:189 addons/widgets/button.php:359
+#: addons/widgets/button.php:372 addons/widgets/button.php:385
+#: addons/widgets/safe-cta.php:599 addons/widgets/safe-cta.php:611
+#: addons/widgets/safe-cta.php:770 addons/widgets/safe-cta.php:783
+#: addons/widgets/safe-cta.php:796
+msgid "Button Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:421
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:374
+msgid "Button Hover Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:398
+msgid "Button Icon Background"
+msgstr ""
+
+#: addons/widgets/blog-post.php:386 addons/widgets/button.php:311
+#: addons/widgets/button.php:559 addons/widgets/safe-cta.php:722
+#: addons/widgets/safe-cta.php:958
+msgid "Button Icon Color"
+msgstr ""
+
+#: addons/widgets/button.php:324 addons/widgets/button.php:572
+#: addons/widgets/safe-cta.php:735 addons/widgets/safe-cta.php:971
+msgid "Button Icon Margin"
+msgstr ""
+
+#: addons/widgets/button.php:337 addons/widgets/button.php:585
+#: addons/widgets/safe-cta.php:748 addons/widgets/safe-cta.php:984
+msgid "Button Icon Padding"
+msgstr ""
+
+#: addons/widgets/button.php:92 addons/widgets/safe-cta.php:254
+msgid "Button Icon?"
+msgstr ""
+
+#: addons/widgets/blog-post.php:443 addons/widgets/button.php:277
+#: addons/widgets/button.php:523 addons/widgets/safe-cta.php:699
+#: addons/widgets/safe-cta.php:934
+msgid "Button Margin"
+msgstr ""
+
+#: addons/widgets/blog-post.php:456 addons/widgets/button.php:289
+#: addons/widgets/button.php:535 addons/widgets/safe-cta.php:711
+#: addons/widgets/safe-cta.php:946
+msgid "Button Padding"
+msgstr ""
+
+#: addons/widgets/button.php:225 addons/widgets/safe-cta.php:647
+msgid "Button Shape Color"
+msgstr ""
+
+#: addons/widgets/button.php:47 addons/widgets/button.php:160
+#: addons/widgets/safe-cta.php:209 addons/widgets/safe-cta.php:582
+msgid "Button Style"
+msgstr ""
+
+#: addons/widgets/button.php:68 addons/widgets/button.php:70
+#: addons/widgets/safe-cta.php:230 addons/widgets/safe-cta.php:232
+msgid "Button Text"
+msgstr ""
+
+#: addons/widgets/blog-post.php:434 addons/widgets/button.php:260
+#: addons/widgets/button.php:506 addons/widgets/safe-cta.php:682
+#: addons/widgets/safe-cta.php:917
+msgid "Button Typography"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:21
+msgid "Call To Action"
+msgstr ""
+
+#: addons/widgets/button.php:142 addons/widgets/countdown-widget.php:104
+#: addons/widgets/icon-box.php:152 addons/widgets/safe-cta.php:106
+#: addons/widgets/section-title.php:158 addons/widgets/team-member.php:170
+msgid "Center"
+msgstr ""
+
+#: addons/widgets/team-member.php:116
+msgid "CEO"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:186 addons/widgets/safe-cta.php:306
+msgid "Choose Image"
+msgstr ""
+
+#: addons/widgets/button.php:52 addons/widgets/safe-cta.php:214
+msgid "Classic Hover"
+msgstr ""
+
+#: addons/widgets/button.php:55 addons/widgets/safe-cta.php:217
+msgid "Close Effect"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:81 addons/widgets/safe-cta.php:83
+msgid "Color Style"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:189
+msgid "Content"
+msgstr ""
+
+#: addons/widgets/blog-post.php:229
+msgid "Content Background Color"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:59 addons/widgets/safe-cta.php:60
+msgid "Content Settings"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:68
+msgid "Content Style"
+msgstr ""
+
+#: addons/widgets/blog-post.php:170
+msgid "Continue Reading"
+msgstr ""
+
+#: addons/widgets/blog-post.php:156
+msgid "Continue Reading Button"
+msgstr ""
+
+#: addons/widgets/blog-post.php:168
+msgid "Continue Reading Button Text"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:21
+msgid "Countdown"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:67
+msgid "Countdown Theme Name"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:123
+msgid "Cta Icon"
+msgstr ""
+
+#: addons/widgets/blog-post.php:146 addons/widgets/blog-post.php:471
+msgid "Date"
+msgstr ""
+
+#: addons/widgets/blog-post.php:479
+msgid "Date Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:499
+msgid "Date Margin"
+msgstr ""
+
+#: addons/widgets/blog-post.php:511
+msgid "Date Padding"
+msgstr ""
+
+#: addons/widgets/blog-post.php:491
+msgid "Date Typography"
+msgstr ""
+
+#: addons/widgets/button.php:50 addons/widgets/safe-cta.php:212
+msgid "Default Button"
+msgstr ""
+
+#: addons/widgets/blog-post.php:131
+msgid "DESC"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:470 addons/widgets/section-title.php:426
+msgid "Description Style"
+msgstr ""
+
+#: addons/widgets/team-member.php:416
+msgid "Designation Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:442
+msgid "Designation Margin"
+msgstr ""
+
+#: addons/widgets/team-member.php:457
+msgid "Designation Padding"
+msgstr ""
+
+#: addons/widgets/team-member.php:431
+msgid "Designation Typography"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:145
+msgid "Dots"
+msgstr ""
+
+#: addons/addons.php:158 addons/addons.php:166 addons/addons.php:205
+msgid "Elementor"
+msgstr ""
+
+#: addons/widgets/blog-post.php:105 addons/widgets/blog-post.php:296
+msgid "Excerpt"
+msgstr ""
+
+#: addons/widgets/blog-post.php:304
+msgid "Excerpt Color"
+msgstr ""
+
+#: addons/widgets/blog-post.php:117
+msgid "Excerpt Length"
+msgstr ""
+
+#: addons/widgets/blog-post.php:326
+msgid "Excerpt Margin"
+msgstr ""
+
+#: addons/widgets/blog-post.php:339
+msgid "Excerpt Padding"
+msgstr ""
+
+#: addons/widgets/blog-post.php:317
+msgid "Excerpt Typography"
+msgstr ""
+
+#: addons/widgets/blog-post.php:179
+msgid "Exclude Categories"
+msgstr ""
+
+#: addons/widgets/blog-post.php:199
+msgid "Exclude Post"
+msgstr ""
+
+#: addons/widgets/blog-post.php:189
+msgid "Exclude Tags"
+msgstr ""
+
+#: addons/widgets/button.php:53 addons/widgets/safe-cta.php:215
+msgid "Fill Button"
+msgstr ""
+
+#: addons/widgets/button.php:57 addons/widgets/safe-cta.php:219
+msgid "Fill Up"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:72 addons/widgets/safe-cta.php:74
+msgid "Flex Grid"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:73 addons/widgets/safe-cta.php:75
+msgid "Flex Grid with Icon"
+msgstr ""
+
+#: addons/widgets/blog-post.php:211 addons/widgets/countdown-widget.php:178
+#: addons/widgets/owl-slider.php:170 addons/widgets/safe-cta.php:298
+#: addons/widgets/section-title.php:176 addons/widgets/team-member.php:188
+msgid "General"
+msgstr ""
+
+#: addons/widgets/section-title.php:227
+msgid "Height"
+msgstr ""
+
+#: addons/widgets/blog-post.php:108 addons/widgets/blog-post.php:159
+#: addons/widgets/button.php:95 addons/widgets/safe-cta.php:257
+msgid "Hide"
+msgstr ""
+
+#: addons/widgets/button.php:352 addons/widgets/icon-box.php:277
+#: addons/widgets/icon-box.php:593 addons/widgets/safe-cta.php:763
+msgid "Hover"
+msgstr ""
+
+#: addons/widgets/team-member.php:307
+msgid "Hover Bottom Shape Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:296
+msgid "Hover Top Shape Color"
+msgstr ""
+
+#: addons/widgets/section-title.php:219
+msgid ""
+"http://commondatastorage.googleapis.com/gtv-videos-"
+"bucket/sample/ForBiggerEscapes.mp4"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themehat.com"
+msgstr ""
+
+#: addons/widgets/button.php:79 addons/widgets/icon-box.php:53
+#: addons/widgets/logo-carousel.php:105 addons/widgets/owl-slider.php:77
+#: addons/widgets/safe-cta.php:241 addons/widgets/team-member.php:138
+msgid "https://your-link.com"
+msgstr ""
+
+#: addons/widgets/button.php:104 addons/widgets/icon-box.php:71
+#: addons/widgets/icon-box.php:100 addons/widgets/icon-box.php:170
+#: addons/widgets/safe-cta.php:266
+msgid "Icon"
+msgstr ""
+
+#: addons/widgets/icon-box.php:220 addons/widgets/icon-box.php:336
+msgid "Icon Border Radius"
+msgstr ""
+
+#: addons/widgets/icon-box.php:23 addons/widgets/icon-box.php:43
+msgid "Icon Box"
+msgstr ""
+
+#: addons/widgets/icon-box.php:51
+msgid "Icon Box Url"
+msgstr ""
+
+#: addons/widgets/icon-box.php:190 addons/widgets/team-member.php:485
+msgid "Icon Color"
+msgstr ""
+
+#: addons/widgets/icon-box.php:307
+msgid "Icon Color On Hover"
+msgstr ""
+
+#: addons/widgets/team-member.php:509
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:497
+msgid "Icon Hover Color"
+msgstr ""
+
+#: addons/widgets/icon-box.php:250 addons/widgets/icon-box.php:366
+#: addons/widgets/team-member.php:530
+msgid "Icon Margin"
+msgstr ""
+
+#: addons/widgets/icon-box.php:262 addons/widgets/icon-box.php:378
+#: addons/widgets/team-member.php:542
+msgid "Icon Padding"
+msgstr ""
+
+#: addons/widgets/button.php:113 addons/widgets/safe-cta.php:275
+msgid "Icon Position"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:527
+msgid "Icon Style"
+msgstr ""
+
+#: addons/widgets/icon-box.php:66
+msgid "Icon Type"
+msgstr ""
+
+#: addons/widgets/icon-box.php:242 addons/widgets/icon-box.php:358
+#: addons/widgets/team-member.php:522
+msgid "Icon Typography"
+msgstr ""
+
+#: addons/widgets/team-member.php:151
+msgid "Icons"
+msgstr ""
+
+#: addons/widgets/blog-post.php:143
+msgid "ID"
+msgstr ""
+
+#: addons/widgets/icon-box.php:70
+msgid "Image"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:123
+msgid "Image #1"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:126
+msgid "Image #2"
+msgstr ""
+
+#: addons/widgets/icon-box.php:471
+msgid "Image Border Radius"
+msgstr ""
+
+#: addons/widgets/team-member.php:319
+msgid "Image Box Shadow On Hover"
+msgstr ""
+
+#: addons/widgets/icon-box.php:448
+msgid "Image Filter"
+msgstr ""
+
+#: addons/widgets/icon-box.php:492
+msgid "Image Margin"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:177
+msgid "Image Overlay?"
+msgstr ""
+
+#: addons/widgets/icon-box.php:504
+msgid "Image Padding"
+msgstr ""
+
+#: addons/widgets/icon-box.php:397
+msgid "Image Style"
+msgstr ""
+
+#: addons/addons.php:169
+msgid "Install Elementor"
+msgstr ""
+
+#: addons/widgets/team-member.php:107
+msgid "John Doe"
+msgstr ""
+
+#: addons/widgets/button.php:138 addons/widgets/countdown-widget.php:100
+#: addons/widgets/icon-box.php:148 addons/widgets/safe-cta.php:102
+#: addons/widgets/section-title.php:154 addons/widgets/team-member.php:166
+msgid "Left"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:276
+msgid "Left Nav Position From Left"
+msgstr ""
+
+#: addons/widgets/button.php:77 addons/widgets/logo-carousel.php:103
+#: addons/widgets/safe-cta.php:239
+msgid "Link"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:38 addons/widgets/logo-carousel.php:82
+msgid "Logo Carousel"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:92
+msgid "Logo Image"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:157
+msgid "Loop"
+msgstr ""
+
+#: addons/widgets/team-member.php:114
+msgid "Member Designation"
+msgstr ""
+
+#: addons/widgets/team-member.php:360
+msgid "Name Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:386
+msgid "Name Margin"
+msgstr ""
+
+#: addons/widgets/team-member.php:401
+msgid "Name Padding"
+msgstr ""
+
+#: addons/widgets/team-member.php:375
+msgid "Name Typography"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:254
+msgid "Nav Position From Top"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:134
+msgid "Navigation"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:209
+msgid "Navigation Background Color"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:220
+msgid "Navigation Background Color On Hover"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:232
+msgid "Navigation Icon Color"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:243
+msgid "Navigation Icon Color On Hover"
+msgstr ""
+
+#: addons/widgets/blog-post.php:62 addons/widgets/logo-carousel.php:241
+#: addons/widgets/logo-carousel.php:274 addons/widgets/logo-carousel.php:286
+#: addons/widgets/owl-slider.php:125 addons/widgets/owl-slider.php:137
+#: addons/widgets/owl-slider.php:148 addons/widgets/owl-slider.php:160
+#: addons/widgets/owl-slider.php:180
+msgid "No"
+msgstr ""
+
+#: addons/widgets/blog-post.php:81
+msgid "No of Column"
+msgstr ""
+
+#: addons/widgets/blog-post.php:72
+msgid "No of Post to show"
+msgstr ""
+
+#: addons/widgets/button.php:171 addons/widgets/icon-box.php:183
+#: addons/widgets/icon-box.php:532 addons/widgets/safe-cta.php:593
+msgid "Normal"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:229
+msgid "Off"
+msgstr ""
+
+#: addons/widgets/button.php:59 addons/widgets/safe-cta.php:221
+msgid "Offset"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:228
+msgid "On"
+msgstr ""
+
+#: addons/widgets/icon-box.php:425
+msgid "Opacity"
+msgstr ""
+
+#: addons/widgets/blog-post.php:127
+msgid "Order"
+msgstr ""
+
+#: addons/widgets/blog-post.php:140
+msgid "Order By"
+msgstr ""
+
+#: addons/widgets/blog-post.php:219 addons/widgets/owl-slider.php:188
+msgid "Overlay Color"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:146
+msgid "Owl Item"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:186
+msgid "Owl Item For Mobile"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:166
+msgid "Owl Item For Tablet"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:206
+msgid "Owl Margin"
+msgstr ""
+
+#: addons/addons.php:230
+msgid "PHP"
+msgstr ""
+
+#: addons/widgets/section-title.php:61
+msgid "Please Set Background Image Or Color From The Style Tab."
+msgstr ""
+
+#: addons/widgets/section-title.php:70
+msgid ""
+"Please Set Background Video From Style Tab And Make Sure Your Video Is Mp4 "
+"Format"
+msgstr ""
+
+#: inc/safecore-functions.php:33
+msgctxt "Poppins: on or off"
+msgid "on"
+msgstr ""
+
+#: addons/widgets/button.php:54 addons/widgets/safe-cta.php:216
+msgid "Pulse Effect"
+msgstr ""
+
+#: addons/widgets/button.php:56 addons/widgets/safe-cta.php:218
+msgid "Raise Effect"
+msgstr ""
+
+#: inc/safecore-functions.php:29
+msgctxt "Raleway: on or off"
+msgid "on"
+msgstr ""
+
+#: addons/widgets/blog-post.php:147
+msgid "Random"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:118
+msgid "Repeater List"
+msgstr ""
+
+#: addons/widgets/button.php:146 addons/widgets/countdown-widget.php:108
+#: addons/widgets/icon-box.php:156 addons/widgets/safe-cta.php:110
+#: addons/widgets/section-title.php:162 addons/widgets/team-member.php:174
+msgid "Right"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:298
+msgid "Right Nav Position From Right"
+msgstr ""
+
+#: addons/widgets/icon-box.php:115
+msgid "Safe Icon Box"
+msgstr ""
+
+#: addons/widgets/team-member.php:271
+msgid "Second Box Border Radius"
+msgstr ""
+
+#: addons/widgets/team-member.php:240
+msgid "Second Card Box Shadow"
+msgstr ""
+
+#: addons/widgets/section-title.php:184
+msgid "Section Background Color"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:481 addons/widgets/section-title.php:436
+msgid "Section Description Color"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:501 addons/widgets/section-title.php:456
+msgid "Section Description Margin"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:513 addons/widgets/section-title.php:468
+msgid "Section Description Padding"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:493 addons/widgets/section-title.php:448
+msgid "Section Description Typography"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:535
+msgid "Section Icon Color"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:555
+msgid "Section Icon Margin"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:567
+msgid "Section Icon Padding"
+msgstr ""
+
+#: addons/widgets/safe-cta.php:547
+msgid "Section Icon Typography"
+msgstr ""
+
+#: addons/widgets/section-title.php:138 addons/widgets/section-title.php:140
+msgid "Section Short Description"
+msgstr ""
+
+#: addons/widgets/section-title.php:106 addons/widgets/section-title.php:108
+msgid "Section Subtitle"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:305 addons/widgets/safe-cta.php:425
+#: addons/widgets/section-title.php:381
+msgid "Section Subtitle Color"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:325 addons/widgets/safe-cta.php:445
+#: addons/widgets/section-title.php:401
+msgid "Section Subtitle Margin"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:337 addons/widgets/safe-cta.php:457
+#: addons/widgets/section-title.php:413
+msgid "Section Subtitle Padding"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:317 addons/widgets/safe-cta.php:437
+#: addons/widgets/section-title.php:393
+msgid "Section Subtitle Typography"
+msgstr ""
+
+#: addons/widgets/section-title.php:20 addons/widgets/section-title.php:40
+#: addons/widgets/section-title.php:78 addons/widgets/section-title.php:80
+msgid "Section Title"
+msgstr ""
+
+#: addons/widgets/section-title.php:290
+msgid "Section Title Color"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:250 addons/widgets/safe-cta.php:370
+#: addons/widgets/section-title.php:327
+msgid "Section Title Margin"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:265 addons/widgets/safe-cta.php:385
+#: addons/widgets/section-title.php:342
+msgid "Section Title Padding"
+msgstr ""
+
+#: addons/widgets/section-title.php:316
+msgid "Section Title Typography"
+msgstr ""
+
+#: addons/widgets/section-title.php:255
+msgid "Section Wrapper Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:267
+msgid "Section Wrapper Padding"
+msgstr ""
+
+#: addons/widgets/team-member.php:65
+msgid "Set Custom Size Of Image. Like 150*150"
+msgstr ""
+
+#: addons/widgets/section-title.php:217
+msgid "Set The Video Url"
+msgstr ""
+
+#: addons/widgets/blog-post.php:107 addons/widgets/blog-post.php:158
+#: addons/widgets/button.php:94 addons/widgets/safe-cta.php:256
+msgid "Show"
+msgstr ""
+
+#: addons/widgets/button.php:58 addons/widgets/safe-cta.php:220
+msgid "Slide"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:22 addons/widgets/owl-slider.php:90
+msgid "Slider"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:334
+msgid "Slider Active Dots Color"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:238
+msgid "Slider Autoplay"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:138 addons/widgets/owl-slider.php:114
+msgid "Slider Control"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:322
+msgid "Slider Dots Color"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:345
+msgid "Slider Dots Position From Bottom"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:367
+msgid "Slider Dots Position From Left"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:283
+msgid "Slider Hover Pause"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:56
+msgid "Slider Image"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:226
+msgid "Slider Loop"
+msgstr ""
+
+#: addons/widgets/logo-carousel.php:271
+msgid "Slider Mousedrag"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:202
+msgid "Slider Nav And Dots"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:46
+msgid "Slider Option"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:65 addons/widgets/owl-slider.php:67
+#: addons/widgets/owl-slider.php:95 addons/widgets/owl-slider.php:100
+msgid "Slider Title"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:463
+msgid "Slider Title Position From Bottom"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:442
+msgid "Slider Title Position From Left"
+msgstr ""
+
+#: addons/widgets/team-member.php:124 addons/widgets/team-member.php:474
+msgid "Social Icon"
+msgstr ""
+
+#: addons/widgets/team-member.php:136
+msgid "Social Icon Link"
+msgstr ""
+
+#: addons/widgets/blog-post.php:46
+msgid "Style"
+msgstr ""
+
+#: addons/widgets/blog-post.php:49 addons/widgets/team-member.php:54
+msgid "Style One"
+msgstr ""
+
+#: addons/widgets/team-member.php:56
+msgid "Style Three"
+msgstr ""
+
+#: addons/widgets/blog-post.php:50 addons/widgets/team-member.php:55
+msgid "Style Two"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:131 addons/widgets/safe-cta.php:144
+#: addons/widgets/section-title.php:118
+msgid "Subitle Tag"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:123 addons/widgets/safe-cta.php:136
+msgid "Subtitle"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:294 addons/widgets/safe-cta.php:414
+#: addons/widgets/section-title.php:371
+msgid "Subtitle Style"
+msgstr ""
+
+#: addons/addons.php:362
+msgid "Super Addons"
+msgstr ""
+
+#. Name of the plugin
+#: addons/addons.php:157 addons/addons.php:165 addons/addons.php:204
+#: addons/addons.php:229 addons/widgets/countdown-widget.php:151
+#: addons/widgets/safe-cta.php:164
+msgid "Super Addons For Elementor"
+msgstr ""
+
+#: addons/widgets/team-member.php:42
+msgid "Team"
+msgstr ""
+
+#: addons/widgets/team-member.php:195
+msgid "Team Background Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:327
+msgid "Team Hover Image Background"
+msgstr ""
+
+#: addons/widgets/team-member.php:338
+msgid "Team Hover Overlay Color"
+msgstr ""
+
+#: addons/widgets/team-member.php:206
+msgid "Team Hover Second Card Background"
+msgstr ""
+
+#: addons/widgets/team-member.php:218
+msgid "Team Hover Third Card Background"
+msgstr ""
+
+#: addons/widgets/team-member.php:22
+msgid "Team Member"
+msgstr ""
+
+#: addons/widgets/team-member.php:87
+msgid "Team Member Image"
+msgstr ""
+
+#: addons/widgets/team-member.php:105
+msgid "Team Member Name"
+msgstr ""
+
+#: addons/widgets/team-member.php:50 addons/widgets/team-member.php:352
+msgid "Team Style"
+msgstr ""
+
+#: addons/widgets/team-member.php:162
+msgid "Text Alignment"
+msgstr ""
+
+#. Author of the plugin
+msgid "Themehat"
+msgstr ""
+
+#: addons/widgets/team-member.php:284
+msgid "Third Box Border Radius"
+msgstr ""
+
+#: addons/widgets/team-member.php:249
+msgid "Third Card Box Shadow"
+msgstr ""
+
+#: addons/widgets/blog-post.php:145 addons/widgets/blog-post.php:242
+#: addons/widgets/countdown-widget.php:149 addons/widgets/owl-slider.php:391
+#: addons/widgets/safe-cta.php:162
+msgid "Title"
+msgstr ""
+
+#: addons/widgets/blog-post.php:250 addons/widgets/countdown-widget.php:224
+#: addons/widgets/icon-box.php:539 addons/widgets/owl-slider.php:399
+#: addons/widgets/safe-cta.php:344
+msgid "Title Color"
+msgstr ""
+
+#: addons/widgets/icon-box.php:624
+msgid "Title Color On Box Hover"
+msgstr ""
+
+#: addons/widgets/blog-post.php:96
+msgid "Title Length"
+msgstr ""
+
+#: addons/widgets/owl-slider.php:75
+msgid "Title Link"
+msgstr ""
+
+#: addons/widgets/blog-post.php:270 addons/widgets/icon-box.php:567
+#: addons/widgets/icon-box.php:653 addons/widgets/owl-slider.php:419
+msgid "Title Margin"
+msgstr ""
+
+#: addons/widgets/blog-post.php:282 addons/widgets/icon-box.php:579
+#: addons/widgets/icon-box.php:665 addons/widgets/owl-slider.php:431
+msgid "Title Padding"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:216 addons/widgets/icon-box.php:518
+#: addons/widgets/safe-cta.php:336 addons/widgets/section-title.php:47
+#: addons/widgets/section-title.php:282
+msgid "Title Style"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:158 addons/widgets/safe-cta.php:171
+#: addons/widgets/section-title.php:87
+msgid "Title Tag"
+msgstr ""
+
+#: addons/widgets/icon-box.php:550 addons/widgets/icon-box.php:636
+msgid "Title Text Shadow"
+msgstr ""
+
+#: addons/widgets/blog-post.php:262 addons/widgets/countdown-widget.php:239
+#: addons/widgets/icon-box.php:559 addons/widgets/icon-box.php:645
+#: addons/widgets/owl-slider.php:411 addons/widgets/safe-cta.php:359
+msgid "Title Typography"
+msgstr ""
+
+#: addons/widgets/icon-box.php:284 addons/widgets/icon-box.php:600
+msgid "Transition Duration"
+msgstr ""
+
+#: addons/widgets/countdown-widget.php:71
+msgid "White"
+msgstr ""
+
+#: addons/widgets/blog-post.php:61 addons/widgets/logo-carousel.php:240
+#: addons/widgets/logo-carousel.php:273 addons/widgets/logo-carousel.php:285
+#: addons/widgets/owl-slider.php:124 addons/widgets/owl-slider.php:136
+#: addons/widgets/owl-slider.php:147 addons/widgets/owl-slider.php:159
+#: addons/widgets/owl-slider.php:179
+msgid "Yes"
+msgstr ""
